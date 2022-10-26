@@ -8,10 +8,10 @@
         <a href="/">Home</a>
       </li>
       <li>
-        <a href="/cart">Carrito</a>
+        <a href="/orders">Ordenes</a>
       </li>
       <li>
-        <a href="/orders">Orden</a>
+        <a href="/total">Total</a>
       </li>
     </ul>
   </nav>

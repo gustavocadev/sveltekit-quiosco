@@ -17,6 +17,7 @@
     "@brainandbones/skeleton": "^0.56.2",
     "@sveltejs/adapter-auto": "next",
     "@sveltejs/kit": "next",
+    "@types/inquirer": "^9.0.2",
     "@typescript-eslint/eslint-plugin": "^5.41.0",
     "@typescript-eslint/parser": "^5.41.0",
     "autoprefixer": "^10.4.12",
@@ -35,6 +36,8 @@
   },
   "type": "module",
   "dependencies": {
-    "@prisma/client": "^4.5.0"
+    "@prisma/client": "^4.5.0",
+    "inquirer": "^9.1.4",
+    "uuid": "^9.0.0"
   }
 }
